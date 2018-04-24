@@ -1,0 +1,1 @@
+This script exports to CSV a complete list of the front-end dependencies for each ElastiCube. It provides information about whether an ElastiCube is used for data security, hierarchies, build alerts, pulse KPIs, or starred formulas. It also provides the list of dashboards (by ID and name) that use an ElastiCube.
