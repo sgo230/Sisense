@@ -6,7 +6,7 @@
 //     "dataAdmin" (data administrator)
 //     "dataViewer" (data viewer)
  
-var new_sys_admin_email = "sovenshinery@gmail.com" // Email address of new Sys. Admin user (user must already exist)
+var new_sys_admin_email = "new_admin@sisense.com" // Email address of new Sys. Admin user (user must already exist)
 var current_sys_admin_new_role = "contributor" // New role for the current Sys. Admin user
  
 use prismWebDB
